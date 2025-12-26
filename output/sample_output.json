@@ -1,0 +1,30 @@
+[
+  {
+    "module": "Documentation",
+    "Description": "Documentation section covering Documentation.",
+    "Submodules": {
+      "WordPress overview": "Description for WordPress overview based on documentation content.",
+      "Where to start?": "Description for Where to start? based on documentation content.",
+      "FAQs": "Description for FAQs based on documentation content.",
+      "About WordPress": "Description for About WordPress based on documentation content.",
+      "Technical guides": "Description for Technical guides based on documentation content.",
+      "Installation": "Description for Installation based on documentation content.",
+      "Maintenance": "Description for Maintenance based on documentation content.",
+      "Security": "Description for Security based on documentation content.",
+      "Support guides": "Description for Support guides based on documentation content.",
+      "Dashboard": "Description for Dashboard based on documentation content.",
+      "Publishing": "Description for Publishing based on documentation content.",
+      "Media": "Description for Media based on documentation content.",
+      "Customization": "Description for Customization based on documentation content.",
+      "Appearance": "Description for Appearance based on documentation content.",
+      "Default themes": "Description for Default themes based on documentation content.",
+      "Media Blocks": "Description for Media Blocks based on documentation content.",
+      "Text Blocks": "Description for Text Blocks based on documentation content.",
+      "Design Blocks": "Description for Design Blocks based on documentation content.",
+      "Embed Blocks": "Description for Embed Blocks based on documentation content.",
+      "Widget Blocks": "Description for Widget Blocks based on documentation content.",
+      "Theme Blocks": "Description for Theme Blocks based on documentation content.",
+      "Get more help": "Description for Get more help based on documentation content."
+    }
+  }
+]
